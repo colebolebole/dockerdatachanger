@@ -1,0 +1,1 @@
+wsl --export docker-desktop-data driveletter:\docker-data\dockerdesktop.tar & wsl --unregister docker-desktop-data & wsl --import docker-desktop-data driveletter:\docker-data\desktop driveletter:\docker-data\dockerdesktop.tar
