@@ -9,7 +9,7 @@ instuctions
 
 2. edit the file in notepad and change driveletter: to the drive you want to use (exp D:\)
 
-3. make a folder in drive of choice - docker-data (spelled excactly so)
+3. make a folder in drive of choice - docker-data (spelled exactly so)
 
 4. close docker desktop & wsl run (wsl --shutdown) as admin
 
